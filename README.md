@@ -7,7 +7,7 @@ CodePath PreWork Project
 App shows Hello from Andrew! and displays several buttons that allow the user to change background, change text and text color, as well as add their own custom text to the app.
 
 ### App Walk-though
-<img src="https://media2.giphy.com/media/sPyjRsUXqijJc4Nomj/giphy.gif?cid=790b7611e4e8ee048bba61b98c46a6dd27696598df45dd6d&rid=giphy.gif" width=400><br>
+<img src="https://media1.giphy.com/media/xdBA3Pjbs283F0dSBx/giphy.gif?cid=790b7611ee94b147ec8667593906f8bbcccbb308f626f004&rid=giphy.gif&ct=g" width=400><br>
 
 
 ### Required User Stories
