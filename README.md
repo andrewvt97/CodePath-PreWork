@@ -9,6 +9,7 @@ App shows Hello from Andrew! and displays several buttons that allow the user to
 ### App Walk-though
 <img src="https://i.imgur.com/3uRIrqJ.gif" width=200><br>
 
+// unfortunately this is the only size github would let me upload for my gif. I really do not know why. I was doing 2-3 sec gifs and it still wouldn't let me. The full video of my app is on youtube. https://www.youtube.com/watch?v=sGZz6IgTxMQ
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
